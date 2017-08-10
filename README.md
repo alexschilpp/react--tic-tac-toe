@@ -1,4 +1,4 @@
-This is an implementation of the React "Tic Tac Toe" Tutorial. (https://facebook.github.io/react/tutorial/tutorial.html)
+This is an implementation of the [React "Tic Tac Toe" Tutorial](https://facebook.github.io/react/tutorial/tutorial.html). 
 
 The project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
